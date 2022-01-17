@@ -1,5 +1,17 @@
 {
+    "name": "davidgp1299/order-api",
+    "description": "My first packagist package",
+    "type": "package",
     "require": {
+        "php": ">=5.3.0",
         "fzaninotto/faker": "^1.5"
-    }
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "David Garcia",
+            "email": "davidgp.1299@gmail.com",
+            "homepage": "http://lasalle.org"
+        }
+    ]
 }
